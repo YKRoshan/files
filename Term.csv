@@ -1,0 +1,77 @@
+identity,name,parentId,type,parentNodeType,parentRelation,weight
+SPRING:7,main,SPRING:2,term,intent,indicatorOf,3
+SPRING:8,fundamental,SPRING:2,term,intent,indicatorOf,0
+SPRING:9,essential,SPRING:2,term,intent,indicatorOf,0
+SPRING:10,beginner,SPRING:2,term,intent,indicatorOf,9
+SPRING:11,basics,SPRING:2,term,intent,indicatorOf,6
+SPRING:12,model,SPRING:2,term,intent,counterIndicatorOf,4
+SPRING:13,secondary,SPRING:2,term,intent,counterIndicatorOf,6
+SPRING:14,additional,SPRING:2,term,intent,counterIndicatorOf,3
+SPRING:15,auxillary,SPRING:2,term,intent,counterIndicatorOf,7
+SPRING:16,snippets,SPRING:2,term,intent,counterIndicatorOf,3
+SPRING:17,acedemic,SPRING:3,term,intent,indicatorOf,7
+SPRING:18,informational,SPRING:3,term,intent,indicatorOf,7
+SPRING:19,informational,SPRING:10,term,term,indicatorOf,6
+SPRING:20,instructive,SPRING:10,term,term,indicatorOf,8
+SPRING:21,instructive,SPRING:3,term,intent,indicatorOf,8
+SPRING:22,guidance,SPRING:3,term,intent,indicatorOf,7
+SPRING:23,instructional,SPRING:3,term,intent,indicatorOf,8
+SPRING:24,tutorials,SPRING:3,term,intent,indicatorOf,8
+SPRING:25,primary,SPRING:10,term,term,counterIndicatorOf,8
+SPRING:26,primitive,SPRING:10,term,term,counterIndicatorOf,6
+SPRING:27,foundation,SPRING:10,term,term,counterIndicatorOf,5
+SPRING:28,source code,SPRING:27,term,term,indicatorOf,6
+SPRING:29,guidance,SPRING:27,term,term,indicatorOf,7
+SPRING:30,beginner,SPRING:27,term,term,counterIndicatorOf,5
+SPRING:31,fundamental,SPRING:10,term,term,counterIndicatorOf,6
+SPRING:32,training,SPRING:3,term,intent,indicatorOf,7
+SPRING:33,primary,SPRING:3,term,intent,counterIndicatorOf,6
+SPRING:34,primitive,SPRING:3,term,intent,counterIndicatorOf,5
+SPRING:35,foundation,SPRING:3,term,intent,counterIndicatorOf,7
+SPRING:36,fundamental,SPRING:3,term,intent,counterIndicatorOf,8
+SPRING:37,beginner,SPRING:3,term,intent,counterIndicatorOf,7
+SPRING:38,source code,SPRING:4,term,intent,indicatorOf,8
+SPRING:39,reference,SPRING:4,term,intent,indicatorOf,6
+SPRING:40,relating,SPRING:4,term,intent,indicatorOf,6
+SPRING:41,snippets,SPRING:4,term,intent,indicatorOf,7
+SPRING:42,sample,SPRING:4,term,intent,indicatorOf,8
+SPRING:43,expression,SPRING:4,term,intent,indicatorOf,5
+SPRING:44,model,SPRING:4,term,intent,indicatorOf,8
+SPRING:45,instance,SPRING:4,term,intent,indicatorOf,6
+SPRING:46,class,SPRING:4,term,intent,indicatorOf,7
+SPRING:47,function,SPRING:4,term,intent,indicatorOf,6
+SPRING:48,instructive,SPRING:4,term,intent,counterIndicatorOf,5
+SPRING:49,guidance,SPRING:4,term,intent,counterIndicatorOf,8
+SPRING:50,informational,SPRING:4,term,intent,counterIndicatorOf,4
+SPRING:51,simple,SPRING:4,term,intent,counterIndicatorOf,6
+SPRING:52,primary,SPRING:4,term,intent,counterIndicatorOf,5
+SPRING:53,model,SPRING:4,term,intent,counterIndicatorOf,4
+SPRING:54,essential,SPRING:4,term,intent,counterIndicatorOf,3
+SPRING:55,note,SPRING:5,term,intent,indicatorOf,7
+SPRING:56,implementation,SPRING:5,term,intent,indicatorOf,8
+SPRING:57,relating,SPRING:5,term,intent,indicatorOf,6
+SPRING:58,indicates,SPRING:5,term,intent,indicatorOf,7
+SPRING:59,meaning,SPRING:5,term,intent,indicatorOf,6
+SPRING:60,source code,SPRING:5,term,intent,indicatorOf,6
+SPRING:61,advance,SPRING:5,term,intent,indicatorOf,6
+SPRING:62,refer to,SPRING:5,term,intent,indicatorOf,7
+SPRING:63,extract,SPRING:5,term,intent,indicatorOf,6
+SPRING:64,give us example,SPRING:5,term,intent,indicatorOf,8
+SPRING:65,sample,SPRING:5,term,intent,counterIndicatorOf,6
+SPRING:66,expression,SPRING:5,term,intent,counterIndicatorOf,7
+SPRING:67,snippets,SPRING:5,term,intent,counterIndicatorOf,5
+SPRING:68,guidance,SPRING:5,term,intent,counterIndicatorOf,7
+SPRING:69,source,SPRING:5,term,intent,counterIndicatorOf,4
+SPRING:70,rectify,SPRING:6,term,intent,IndicatorOf,7
+SPRING:71,fix,SPRING:6,term,intent,IndicatorOf,7
+SPRING:72,service,SPRING:6,term,intent,IndicatorOf,6
+SPRING:73,improve,SPRING:6,term,intent,IndicatorOf,5
+SPRING:74,support,SPRING:6,term,intent,IndicatorOf,6
+SPRING:75,repair,SPRING:6,term,intent,IndicatorOf,7
+SPRING:76,note,SPRING:36,term,term ,indicatorOf,8
+SPRING:77,implementation,SPRING:36,term,term,indicatorOf,8
+SPRING:78,give us example,SPRING:36,term,term,indicatorOf,7
+SPRING:79,sample,SPRING:36,term,term,counterIndicatorOf,7
+SPRING:80,expression,SPRING:36,term,term,counterIndicatorOf,7
+SPRING:82,helloworld,SPRING:81,term,intent,indicatorOf,7
+SPRING:83,how to code,SPRING:81,term,intent,indicatorOf,7

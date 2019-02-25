@@ -1,0 +1,8 @@
+identity,name,parentId,type,parentNodeType,parentRelation,weight
+SPRING:1,Spring Framework,SPRING:0,intent,intent,parent,0
+SPRING:2,basics,SPRING:1,intent,intent,IntentOf,0
+SPRING:3,tutorials,SPRING:1,intent,intent,IntentOf,0
+SPRING:4,example,SPRING:1,intent,intent,IntentOf,0
+SPRING:5,complete reference,SPRING:1,intent,intent,IntentOf,0
+SPRING:6,trouble shooting,SPRING:1,intent,intent,IntentOf,0
+SPRING:81,getting started,SPRING:1,intent,intent,IntentOf,7
